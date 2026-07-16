@@ -79,7 +79,7 @@ It analyzes public GitHub profiles and provides:
 
 Built with React, TypeScript, Vite, the GitHub REST API, Vitest, and GitHub Actions.
 
-- Live demo: PASTE_VERCEL_ADDRESS
+- Live demo: [PASTE_VERCEL_ADDRESS](https://repolens-ay495vvug-tmpt.vercel.app/)
 - Source code: https://github.com/Nsralla-ND/repolens
 
 ## Currently Learning
